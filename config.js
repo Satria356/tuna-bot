@@ -22,22 +22,22 @@ global.APIKeys = {
 }
 
 //═══════[modification]════════\\
-global.owner = ['27634090203'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
-global.pemilik = ['27634090203'] //another owner number
-global.premium = ['27634090203'] //premium number
-global.pengguna = 'Drips' //username
-global.botnma = 'ZIM BOT INC' //bot name
-global.ownernma = 'Drips' //owner name
-global.packname = 'Drips' //sticker package name
-global.author = 'By Drips Memes' //sticker author name
+global.owner = ['083811034750'] //owner number, u can put multiple owner number, within quotations and seperated by comma.
+global.pemilik = ['083163410880'] //another owner number
+global.premium = ['083811034750'] //premium number
+global.pengguna = 'RuningByMe' //username
+global.botnma = 'BOT-MD' //bot name
+global.ownernma = 'RuningByMe' //owner name
+global.packname = 'RuningBbyMe' //sticker package name
+global.author = 'BOT-MD' //sticker author name
 global.sessionName = 'session' //session name
 global.prefa = ['#','!','/',''] //prefix
 global.sp = '🔵' //design
 global.mess = {
-    success: 'Takaenda Done!',
+    success: 'Oke Done!',
     admin: 'you must be admin to use this cmd!',
-    botAdmin: 'zim bot must be admin neh!',
-    owner: 'This cmd is for zim bot owner only',
+    botAdmin: 'make me admin deck!',
+    owner: 'This cmd is for me owner only',
     group: 'oooh sorry this cmd is for groups only!',
     private: 'goossssh it can only used in dms!',
     bot: 'This cmd  its only for the bot host',
